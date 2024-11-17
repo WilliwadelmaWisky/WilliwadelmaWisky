@@ -1,7 +1,7 @@
 # WilliwadelmaWisky
 <p align="justify">
-  I'm a self-taught developer. I do programming as a hobby. I love creating all kinds of projects. 
-  My interest in programing derives from the passion of playing video games.
+  I'm a self-taught software developer and do programming as a hobby. I love creating all kinds of projects including games. 
+  My interest in programing actually derives from the passion of playing video games. I wanted to learn how to make a game myself.
 </p>
 
 ## Featured Projects
@@ -15,6 +15,7 @@
 | Project | Description | Languages | License |
 |:--------|:------------|:----------|:-------:|
 | [TriviaQuiz](https://github.com/WilliwadelmaWisky/TriviaQuiz) | A web application for taking multiple-choice quizzes. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
+| [uplib](https://github.com/WilliwadelmaWisky/uplib) | A python library for calculating uncertainties. | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | NOT YET |
 
 ## My Developer Journey
 
@@ -121,7 +122,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p align="justify">
-  ...
+  I have had to learn numpy, scipy and matplotlib for reasons. There is just too many things that you simply cannot compute analytically, so numeric approach is needed.
+  Then later pandas and sklearn came into the picture as well. 
 </p>
 
 <p align="justify">
@@ -138,26 +140,26 @@
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <p align="justify">
-  ...
+  I have been getting into computer graphics a little bit lately in the form of C++ and OpenGL.
 </p>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <p align="justify">
-  ...
+  I have built a simple prototype http server with go.
 </p>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <p align="justify">
-  ...
+  I tried kotlin to see if I liked it better than java. So far it is going to be java for me.
 </p>
 
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="justify">
-  ...
+  Done a little bit of experimenting with the leaflet framework. 
 </p>
 
 ### Plans for Future
@@ -174,19 +176,23 @@
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <p align="justify">
-  ...
+  I have messed around little bit with PyQT in the past. 
+  I will surely take a look into the underlying QT framework once the inspiration strikes.
+  It will also further improve my C++ skills so there are a lot of benefits.
 </p>
 
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 <p align="justify">
-  ...
+  I have been getting into the world of functional programming as of late in the form of Racket. 
+  Haskell is definitely on my radar on the future. 
 </p>
 
 ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 
 <p align="justify">
-  ...
+  Zig could be one of the big languages in the future. 
+  I am waiting for inspiration to strike with this one as well unfortinately.
 </p>
 
 ## Development Tools
