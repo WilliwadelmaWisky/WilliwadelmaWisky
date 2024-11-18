@@ -1,6 +1,7 @@
 # WilliwadelmaWisky
 <p align="justify">
-  I'm a self-taught software developer and do programming as a hobby. I love creating all kinds of projects including games. 
+  I'm a self-taught software developer and do programming as a hobby. 
+  I love learning new things and creating all kinds of projects including games. 
   My interest in programing actually derives from the passion of playing video games. I wanted to learn how to make a game myself.
 </p>
 
@@ -9,19 +10,21 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="justify">
-  A few of my projects that I am quite proud of.
+  A few of my projects that I am quite proud of and have actually open-sourced. 
+  I do have other projects as well on github but they are either unfinished or not worthy to take a look at.
 </p>
 
 | Project | Description | Languages | License |
 |:--------|:------------|:----------|:-------:|
 | [TriviaQuiz](https://github.com/WilliwadelmaWisky/TriviaQuiz) | A web application for taking multiple-choice quizzes. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
-| [uplib](https://github.com/WilliwadelmaWisky/uplib) | A python library for calculating uncertainties. | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | NOT YET |
+| [uplib](https://github.com/WilliwadelmaWisky/uplib) | A python library for calculating uncertainties. | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
 
 ## My Developer Journey
 
 <p align="justify">
   At some point I became interested in mods while playing Ark Survival Evolved.
   I wanted to make a mod myself so I began to search how does one make mods for ARK. I came across Ark Dev Kit, which was powered by Unreal Engine, and managed to make my own mod after trial and error.
+  There was actually very little resources to learn how the dev kit works so I lost interest on it quite quickly, also the fact that the dev kit ran extremely slowly encouraged that.
   Naturally my interests moved from the dev kit to the Unreal Engine itself and my journey as a "game developer" started.
 </p>
 
@@ -76,7 +79,7 @@
 <p align="justify">
   Building something simple was a lot better to do with plain javascript than with react or vue for example.
   I am definitely planning on returning to frameworks at some point.
-  At some point I came across Electron and decided to try to build a simple desktop application.
+  Later I came across Electron and decided to try to build a simple desktop application.
 </p>
 
 ### Desktop Applications
@@ -112,6 +115,16 @@
   Nonetheless I can get stuff done and I am happy about it.
 </p>
 
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  I also tried building desktop apps with python. However that did not go very smoothly and the reason wasn't even python itself, nor my inability to use it. 
+  The problem was the ability to run python applications after making executables of them. 
+  I found a lot of similar issues where windows defender blocks the execution and deletes the file afterwards.
+  Luckily there was an easy fix for that, ditching windows entirely. 
+</p>
+
 ### Data Science and Numerics
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
@@ -124,14 +137,6 @@
 <p align="justify">
   I have had to learn numpy, scipy and matplotlib for reasons. There is just too many things that you simply cannot compute analytically, so numeric approach is needed.
   Then later pandas and sklearn came into the picture as well. 
-</p>
-
-<p align="justify">
-  I also tried building desktop apps with python. However that did not go very smoothly and the reason wasn't even python itself, nor my inability to use it. 
-  The problem was the ability to run python applications after making executables of them. 
-  I found a lot of similar issues where windows defender blocks the execution and deletes the file afterwards.
-  Luckily there was an easy fix for that, ditching windows entirely. 
-  It was so worth it to switch to linux even though I was a bit scared to take a leap of faith and erase windows as I had never installed an operating system before.
 </p>
 
 ### Other Languages and Frameworks
@@ -202,5 +207,9 @@
 ![LinuxArch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 <p align="justify">
-  ...
+  I am a linux enthusiast of sorts. As I already mentioned a little bit of moving from windows to linux. 
+  It was probably the best decision I could have made. I only wish I had done it sooner. 
+  The windows 10, the last ever windows, end of support announcement was the final straw for me.
+  I may have had to sacrifice a few of the games I like but that is a cost I can live with.
+  I actually liked windows 10 quite a bit apart from it updating always at the worst possible time and the constant usage of 4MB ram or more.
 </p>
