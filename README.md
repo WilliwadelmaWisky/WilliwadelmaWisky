@@ -82,6 +82,20 @@
   Later I came across Electron and decided to try to build a simple desktop application.
 </p>
 
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+<p align="justify">
+  I have built a simple prototype http server with go.
+</p>
+
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  I have built a simple prototype http server with python.
+</p>
+
 ### Desktop Applications
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -115,6 +129,8 @@
   Nonetheless I can get stuff done and I am happy about it.
 </p>
 
+![PyQT5](https://img.shields.io/badge/PyQT5-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -123,6 +139,16 @@
   The problem was the ability to run python applications after making executables of them. 
   I found a lot of similar issues where windows defender blocks the execution and deletes the file afterwards.
   Luckily there was an easy fix for that, ditching windows entirely. 
+</p>
+
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<p align="justify">
+  I have been getting into computer graphics a little bit lately in the form of C++ and OpenGL.
+  
 </p>
 
 ### Data Science and Numerics
@@ -140,20 +166,6 @@
 </p>
 
 ### Other Languages and Frameworks
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<p align="justify">
-  I have been getting into computer graphics a little bit lately in the form of C++ and OpenGL.
-</p>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-<p align="justify">
-  I have built a simple prototype http server with go.
-</p>
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <p align="justify">
@@ -193,6 +205,12 @@
   Haskell is definitely on my radar on the future. 
 </p>
 
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+
+<p align="justify">
+  ...
+</p>
+
 ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 
 <p align="justify">
@@ -202,7 +220,9 @@
 
 ## Development Tools
 ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![LinuxDebian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![LinuxManjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![LinuxArch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
