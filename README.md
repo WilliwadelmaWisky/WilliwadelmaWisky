@@ -54,20 +54,17 @@
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="justify">
   At the start of my web application journey I came across a framework called React. 
   I also heard it was quite popular so I gave it a try. The syntax was a lot different than that of C#, especially with reqular javascript.
   I decided to go with typescript which was definitely a wise decision. A few little projects, todo etc., later I thought react is a little bit unnecessary for my use-case. 
   I began searching for another way. I decided to give another framework, called vue, a try because I heard people like it a lot more than react.
-</p>
-
-![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<p align="justify">
   I started to build a little login/logoff application with vue. Very quickly I realized that, even though I liked vue quite a bit, also vue was a bit unnecessary.
   Then on I decided to steer away from frameworks to plain javascript. 
 </p>
@@ -79,21 +76,23 @@
 <p align="justify">
   Building something simple was a lot better to do with plain javascript than with react or vue for example.
   I am definitely planning on returning to frameworks at some point.
-  Later I came across Electron and decided to try to build a simple desktop application.
+</p>
+
+![LegacyReact](https://img.shields.io/badge/Legacy_React-%23ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<p align="justify">
+   At some point I heard that it is possible to use react without nodejs
 </p>
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-<p align="justify">
-  I have built a simple prototype http server with go.
-</p>
-
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p align="justify">
-  I have built a simple prototype http server with python.
+  For learning backend developement I have built a simple prototype http server with go and with python.
 </p>
 
 ### Desktop Applications
