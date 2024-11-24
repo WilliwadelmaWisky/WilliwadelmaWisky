@@ -84,7 +84,17 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="justify">
-   At some point I heard that it is possible to use react without nodejs
+  At some point I heard that it is possible to use react without nodejs. 
+  I really like the legacy framework for it having a lot less boilerplate.
+  It is also giving me a lot more control and understanding on what is actually happening.
+</p>
+
+![ASP.Net](https://img.shields.io/badge/ASP.NET-0e5bcf?style=for-the-badge&logo=.net&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+<p align="justify">
+  ...
 </p>
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -114,6 +124,14 @@
   However the problem with tauri was that I needed to learn rust. So I decided I would do just that and began learning rust.
   Rust was a very different experience from C# or javascript, and I little too complicated and messy to get something actually done.
   I decided to move away from web-based frameworks to java.
+</p>
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+<p align="justify">
+  ...
 </p>
 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
