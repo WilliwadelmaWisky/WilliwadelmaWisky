@@ -39,7 +39,6 @@
 </p>
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 <p align="justify">
@@ -49,14 +48,18 @@
   I completely fell in love with C# and its statically typed language syntax. 
   After many attempts to finish a game, I always ended up losing interest in the projects due to the gameplay not being fun enough or the quality of the assets not being eye-pleasing enough.
   In the end I had a lot of unfinished projects but had learned so much. The experience with Unity and C# definitely opened many doors to learn different languages.
-  My next destination was the web applications.
 </p>
 
 ### Web Development
+
+<p align="justify">
+  I have done 
+</p>
+
+#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -69,7 +72,6 @@
 </p>
 
 ![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="justify">
@@ -80,7 +82,6 @@
 
 ![LegacyReact](https://img.shields.io/badge/Legacy_React-%23ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="justify">
@@ -90,16 +91,32 @@
 </p>
 
 ![ASP.Net](https://img.shields.io/badge/ASP.NET-0e5bcf?style=for-the-badge&logo=.net&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 <p align="justify">
   ...
 </p>
 
+#### Backend
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+<p align="justify">
+  ...
+</p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  ...
+</p>
+
 ### Desktop Applications
+
+<p align="justify">
+  ...
+</p>
+
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="justify">
@@ -108,9 +125,8 @@
   I decided to search a different option. I came across Tauri.
 </p>
 
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=Tauri&logoColor=FFC131)
+![Rust](https://img.shields.io/badge/Rust-a6400a?style=for-the-badge&logo=rust&logoColor=white)
 
 <p align="justify">
   However the problem with tauri was that I needed to learn rust. So I decided I would do just that and began learning rust.
@@ -119,7 +135,6 @@
 </p>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 <p align="justify">
@@ -128,7 +143,6 @@
 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p align="justify">
@@ -140,7 +154,6 @@
 
 ![PyQT5](https://img.shields.io/badge/PyQT5-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p align="justify">
@@ -152,64 +165,45 @@
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <p align="justify">
-  I have been getting into computer graphics a little bit lately in the form of C++ and OpenGL.
+  I have been getting into computer graphics a little bit lately in the form of C++ and OpenGL. 
   GLFW for windows and CMake as a build system make a quite a powerrful combination.
 </p>
 
-### Data Science and Numerics
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Data Science
 
-<p align="justify">
-  I have had to learn numpy, scipy and matplotlib for reasons. There is just too many things that you simply cannot compute analytically, so numeric approach is needed.
-  Then later pandas and sklearn came into the picture as well. 
-</p>
-
-### Other Languages and Frameworks
-<p align="justify">
-  There are also a few other languages and frameworks I have used. 
-  They did not quite fit the categories above so I had to create a separate section for them.
-  The following table contains most of the important things.
-</p>
-
-| Language | Framework | Description |
-|:---------|:----------|:------------|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | - | Done some super basic things in C to learn the syntax and to be able to understand C code a little bit if I see some. |
-| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | - | Done an http server in go. |
-| ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white) | Done a little bit of experimenting with the leaflet framework. |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) | - | I tried kotlin to see if I liked it better than java. So far it is going to be java for me. |
-
-### Plans for Future
 <p align="justify">
   ...
 </p>
 
-| Language | Framework | Description |
-|:---------|:----------|:------------|
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) | I have messed around little bit with PyQT in the past. I will surely take a look into the underlying QT framework once the inspiration strikes. It will also further improve my C++ skills so there are a lot of benefits. |
-| ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) | - | I have been getting into the world of functional programming as of late in the form of Racket. Haskell is definitely on my radar on the future. |
-| ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | I will try angular and few other javascript frameworks at some point just to see which I like best. |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | I am definitely going to dig a little bit deeper in the world of machine learning. PyTorch and TensorFlow have been on my radar for a while but the inspiration has not struck me just yet. |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) | I am definitely going to dig a little bit deeper in the world of machine learning. PyTorch and TensorFlow have been on my radar for a while but the inspiration has not struck me just yet. |
-| ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) | - | ... |
-| ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white) | - | Zig could be one of the big languages in the future. I am waiting for inspiration to strike with this one as well unfortinately. |
+#### Numerics
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  I have had to learn numpy, scipy and matplotlib for reasons. 
+  There is just too many things that you simply cannot compute analytically, so numeric approach is needed. 
+</p>
+
+#### Machine Learning
+![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  I have been learning a bit machine learning in the form of sklearn and PyTorch.
+  I am definitely going to dig a little bit deeper in the world of machine learning in the future. 
+  TensorFlow have been on my radar for a while but the inspiration has not struck me just yet.
+</p>
 
 ## Development Tools
-![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![LinuxDebian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![LinuxManjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
-![LinuxArch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 <p align="justify">
   I am a linux enthusiast of sorts. As I already mentioned a little bit of moving from windows to linux. 
@@ -219,20 +213,31 @@
   I actually liked windows 10 quite a bit apart from it updating always at the worst possible time and the constant usage of 4GB ram or more.
 </p>
 
-### IDEs and Editors
-![IntelliJ](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+| OS | Desciption |
+|:-----------------|:-----------|
+| ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | An easy to use well rounded distro for everyday use. Very good option to choose when moving from windows to linux. Well that is exactly what I did. Definitely a big plus for mint is that, since it is ubuntu/debian based, most of the software just works out of the box and there is no need to compile binaries on your own. Most of the software can be found on ubuntu repositories or from the web as debian installer files. Also mint has a very good and useful graphical software manager out of the box. I am still using linux mint (cinnamon) as my daily-driver on one of the computers. |
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | - |
+| ![LinuxDebian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | - |
+| ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) | - |
+| ![LinuxManjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) | - |
+| ![LinuxArch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | - |
 
 <p align="justify">
-  I use intellij community edition for all my java projects. 
-  I have also used eclipse in the past for java projects but I like intellij a lot more. 
-  Of course kotlin support is a big bonus for me choosing the intellij.
-  I use pycharm community edition on different python projects. If the project is bigger than a single python script I will use pycharm instead of vscode.
-  I use sublime text for little tweaks. Also if I want to check the contents of a file sublime text is my prefered tool for that because it is fast and simple. 
-  I used notepad++ in the past but switched to sublime text when I moved from windows to linux.
-  I use vim for small tweaks. Also if I have to edit a file over ssh connection vim is my prefered tool for that. 
-  I use vscode for most of my development needs.
+  ...
+</p>
+
+| Editor/IDE | Description |
+|:-------|:------------|
+| ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | I use vscode for most of my development needs. |
+| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | - |
+| ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) | I have used eclipse in the past for java projects but I like intellij a lot more. I have not really found any need to use eclipse since. |
+| ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) | I use intellij community edition for all my java projects. |
+| ![PyCharm](https://img.shields.io/badge/PyCharm-111111.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) | I use pycharm community edition on different python projects. If the project is bigger than a single python script I will use pycharm instead of vscode. |
+| ![Rider](https://img.shields.io/badge/Rider-111111.svg?style=for-the-badge&logo=Rider&logoColor=white) | - |
+| ![Notepad++](https://img.shields.io/badge/Notepad++-%2357A143.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) | - |
+| ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) | I use sublime text for little tweaks. Also if I want to check the contents of a file sublime text is my prefered tool for that because it is fast and simple. I used notepad++ in the past but switched to sublime text when I moved from windows to linux. |
+| ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) |  I use vim for small tweaks. Also if I have to edit a file over ssh connection vim is my prefered tool for that. |
+
+<p align="justify">
+  ...
 </p>
