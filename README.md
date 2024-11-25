@@ -213,7 +213,7 @@
   I actually liked windows 10 quite a bit apart from it updating always at the worst possible time and the constant usage of 4GB ram or more.
 </p>
 
-| Operating System | Desciption |
+| Operating&#160;System | Desciption |
 |:-----------------|:-----------|
 | ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | An easy to use well rounded distro for everyday use. Very good option to choose when moving from windows to linux. Well that is exactly what I did. Definitely a big plus for mint is that, since it is ubuntu/debian based, most of the software just works out of the box and there is no need to compile binaries on your own. Most of the software can be found on ubuntu repositories or from the web as debian installer files. Also mint has a very good and useful graphical software manager out of the box. I am still using linux mint (cinnamon) as my daily-driver on one of the computers. |
 | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | - |
