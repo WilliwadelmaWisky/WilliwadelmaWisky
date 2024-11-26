@@ -35,13 +35,13 @@
   As mentioned already I began to learn Unreal Engine 4 with blueprints. I learned a lot of by making different small projects that never saw the light of day.
   However my inability to make something visually pleasing in 3D make me begin to lean towards the 2D development. 
   The tooling for 2D in Unreal Engine was quite limited at the time so naturally I started to look for better alternatives. 
-  I came across Unity, of which I had heard of before, and started to learn how to build something with it.
 </p>
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 <p align="justify">
+  I came across Unity, of which I had heard of before, and started to learn how to build something with it.
   Luckily there was a lot more learning material for Unity than for Unreal, so learning was not an issue.
   To be able to build something with Unity, I first needed to learn C#. It was such a different experience from blueprints in Unreal. 
   Luckily C# syntax was very straight forward so I was able to understand it rather quickly. So I began building different 2D projects to learn the language better.
@@ -53,7 +53,8 @@
 ### Web Development
 
 <p align="justify">
-  ...
+  I have done quite a bit web development in my time. 
+  I have mostly been doing frontend projects but I became interested in the backend side of things as well.
 </p>
 
 #### Frontend
@@ -98,22 +99,26 @@
 </p>
 
 #### Backend
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-<p align="justify">
-  ...
-</p>
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p align="justify">
-  ...
+  I built a simple http server in python. It was a bit of a mess due to python being python.
+</p>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+<p align="justify">
+  I like golang very much. It has a lot of similarities to python but I like go way better. 
+  I built very similar http server in go than I previously built on python. 
+  The version with go was so much easier to expand upon due to go being statically typed language.
+  I am definitely using go instead of python in the future for said tasks as well.
 </p>
 
 ### Desktop Applications
 
 <p align="justify">
-  ...
+  I have used many different frameworks for building desktop applications. 
+
 </p>
 
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
@@ -122,13 +127,14 @@
 <p align="justify">
   A working application was quite simple to get up and running with electron+javascript. 
   However, in electron, wokring with for example a file system felt a little too complicated to my taste.
-  I decided to search a different option. I came across Tauri.
+  I decided to search a different option.
 </p>
 
 ![Tauri](https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=Tauri&logoColor=FFC131)
 ![Rust](https://img.shields.io/badge/Rust-a6400a?style=for-the-badge&logo=rust&logoColor=white)
 
 <p align="justify">
+  I came across Tauri.
   However the problem with tauri was that I needed to learn rust. So I decided I would do just that and began learning rust.
   Rust was a very different experience from C# or javascript, and I little too complicated and messy to get something actually done.
   I decided to move away from web-based frameworks to java.
@@ -172,13 +178,12 @@
   GLFW for windows and CMake as a build system make a quite a powerrful combination.
 </p>
 
-### Data Science
+### Data Science and Machine Learning
 
 <p align="justify">
   ...
 </p>
 
-#### Numerics
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -190,7 +195,6 @@
   There is just too many things that you simply cannot compute analytically, so numeric approach is needed. 
 </p>
 
-#### Machine Learning
 ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -201,6 +205,18 @@
   I have been learning a bit machine learning in the form of sklearn and PyTorch.
   I am definitely going to dig a little bit deeper in the world of machine learning in the future. 
   TensorFlow have been on my radar for a while but the inspiration has not struck me just yet.
+</p>
+
+### Tools and Automation Scripts
+
+<p align="justify">
+  ...
+</p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  ...
 </p>
 
 ## Development Tools
@@ -214,7 +230,7 @@
 </p>
 
 | Operating&#160;System | Desciption |
-|:-----------------|:-----------|
+|:----------------------|:-----------|
 | ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | An easy to use well rounded distro for everyday use. Very good option to choose when moving from windows to linux. Well that is exactly what I did. Definitely a big plus for mint is that, since it is ubuntu/debian based, most of the software just works out of the box and there is no need to compile binaries on your own. Most of the software can be found on ubuntu repositories or from the web as debian installer files. Also mint has a very good and useful graphical software manager out of the box. I am still using linux mint (cinnamon) as my daily-driver on one of the computers. |
 | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | - |
 | ![LinuxDebian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | - |
@@ -223,19 +239,19 @@
 | ![LinuxArch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | - |
 
 <p align="justify">
-  ...
+  I have used many different editors and IDEs. 
 </p>
 
-| Editor/IDE | Description |
-|:-------|:------------|
-| ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | I use vscode for most of my development needs. |
-| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | - |
+| Development&#160;Environment | Description |
+|:---------------------------|:------------|
+| ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | I use vscode for most of my development needs. It has plugins for pretty much anything I can think of so if there is not a better suited editor for a certain task I will use vscode. |
+| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | I used visual studio when working on unity or dotnet projects. It worked very well but since visual studio is windows only I cannot use it anymore. |
 | ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) | I have used eclipse in the past for java projects but I like intellij a lot more. I have not really found any need to use eclipse since. |
-| ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) | I use intellij community edition for all my java projects. |
-| ![PyCharm](https://img.shields.io/badge/PyCharm-111111.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) | I use pycharm community edition on different python projects. If the project is bigger than a single python script I will use pycharm instead of vscode. |
+| ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) | I use intellij community edition for all my java projects. Setting up a project for javafx or kotlin for example is just so simple. I also like the way how everything works in intellij and the ui is very nice to look at. |
+| ![PyCharm](https://img.shields.io/badge/PyCharm-111111.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) | I use pycharm community edition on different python projects. If the project is bigger than a single python script I will use pycharm instead of vscode. Another one of my favorite JetBrains editors. |
 | ![Rider](https://img.shields.io/badge/Rider-111111.svg?style=for-the-badge&logo=Rider&logoColor=white) | - |
-| ![Notepad++](https://img.shields.io/badge/Notepad++-%2357A143.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) | - |
-| ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) | I use sublime text for little tweaks. Also if I want to check the contents of a file sublime text is my prefered tool for that because it is fast and simple. I used notepad++ in the past but switched to sublime text when I moved from windows to linux. |
+| ![Notepad++](https://img.shields.io/badge/Notepad++-%2357A143.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) | I used notepad++ in the past for small tweaks for tasks where I did not need intellisense but switched to sublime text when I moved from windows to linux. |
+| ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) | I use sublime text for little tweaks. Also if I want to check the contents of a file sublime text is my prefered tool for that because it is fast and simple. |
 | ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) |  I use vim for small tweaks. Also if I have to edit a file over ssh connection vim is my prefered tool for that. |
 
 <p align="justify">
