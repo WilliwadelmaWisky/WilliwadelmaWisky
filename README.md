@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="justify">
-  A few of my projects that I am quite proud of and have actually open-sourced. 
+  Here are a few of my projects that I am quite proud of and have actually open-sourced. 
   I do have other projects as well on github but they are either unfinished or not worthy to take a look at.
 </p>
 
@@ -18,8 +18,13 @@
 |:--------|:------------|:----------|:-------:|
 | [TriviaQuiz](https://github.com/WilliwadelmaWisky/TriviaQuiz) | A web application for taking multiple-choice quizzes. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
 | [uplib](https://github.com/WilliwadelmaWisky/uplib) | A python library for calculating uncertainties. | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
+| [hexdump](https://github.com/WilliwadelmaWisky/hexdump) | An extremely simple open-source hexdump program for Windows. | ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=E95420) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
 
 ## My Developer Journey
+
+<p align="justify">
+  ...
+</p>
 
 <p align="justify">
   At some point I became interested in mods while playing Ark Survival Evolved.
@@ -51,15 +56,8 @@
 </p>
 
 ### Web Development
-
-<p align="justify">
-  I have done quite a bit web development in my time. 
-  I have mostly been doing frontend projects but I became interested in the backend side of things as well.
-</p>
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -73,6 +71,7 @@
 </p>
 
 ![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="justify">
@@ -81,7 +80,7 @@
   Luckily JQuery came to the rescue. I can keep my projects very simple and clean from all the boilerplate.
 </p>
 
-![LegacyReact](https://img.shields.io/badge/Legacy_React-%23ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
+![LegacyReact](https://img.shields.io/badge/Legacy_React-2B2E3A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -98,53 +97,29 @@
   ...
 </p>
 
-#### Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<p align="justify">
-  I built a simple http server in python. It was a bit of a mess due to python being python.
-</p>
-
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <p align="justify">
-  I like golang very much. It has a lot of similarities to python but I like go way better. 
-  I built very similar http server in go than I previously built on python. 
-  The version with go was so much easier to expand upon due to go being statically typed language.
-  I am definitely using go instead of python in the future for said tasks as well.
+  I built an http server in go. 
+  Go is a very nice language to work with due to it being statically typed language. 
 </p>
 
 ### Desktop Applications
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 <p align="justify">
-  I have used many different frameworks for building desktop applications. 
-
+  I got interested in desktop applications while developing prototypes with unity and visual studio.  
 </p>
 
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="justify">
+  My first taste of web-based desktop application frameworks was electron.
   A working application was quite simple to get up and running with electron+javascript. 
   However, in electron, wokring with for example a file system felt a little too complicated to my taste.
   I decided to search a different option.
-</p>
-
-![Tauri](https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=Tauri&logoColor=FFC131)
-![Rust](https://img.shields.io/badge/Rust-a6400a?style=for-the-badge&logo=rust&logoColor=white)
-
-<p align="justify">
-  I came across Tauri.
-  However the problem with tauri was that I needed to learn rust. So I decided I would do just that and began learning rust.
-  Rust was a very different experience from C# or javascript, and I little too complicated and messy to get something actually done.
-  I decided to move away from web-based frameworks to java.
-</p>
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-<p align="justify">
-  ...
 </p>
 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
@@ -156,6 +131,16 @@
   Java is also very similar to C# so there was not too much to learn about the syntax.
   If only java had operator overloading it would be amazing.
   Nonetheless I can get stuff done and I am happy about it.
+</p>
+
+![Tauri](https://img.shields.io/badge/Tauri-2B2E3A?style=for-the-badge&logo=Tauri&logoColor=FFC131)
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=E95420)
+
+<p align="justify">
+  I came across Tauri.
+  However the problem with tauri was that I needed to learn rust. So I decided I would do just that and began learning rust.
+  Rust was a very different experience from C# or javascript, and I little too complicated and messy to get something actually done.
+  I decided to move away from web-based frameworks to java.
 </p>
 
 ![PyQT5](https://img.shields.io/badge/PyQT5-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -179,11 +164,6 @@
 </p>
 
 ### Data Science and Machine Learning
-
-<p align="justify">
-  ...
-</p>
-
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -207,18 +187,6 @@
   TensorFlow have been on my radar for a while but the inspiration has not struck me just yet.
 </p>
 
-### Tools and Automation Scripts
-
-<p align="justify">
-  ...
-</p>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<p align="justify">
-  ...
-</p>
-
 ## Development Tools
 
 <p align="justify">
@@ -231,7 +199,7 @@
 
 | Operating&#160;System | Desciption |
 |:----------------------|:-----------|
-| ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | An easy to use well rounded distro for everyday use. Very good option to choose when moving from windows to linux. Well that is exactly what I did. Definitely a big plus for mint is that, since it is ubuntu/debian based, most of the software just works out of the box and there is no need to compile binaries on your own. Most of the software can be found on ubuntu repositories or from the web as debian installer files. Also mint has a very good and useful graphical software manager out of the box. I am still using linux mint (cinnamon) as my daily-driver on one of the computers. |
+| ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | An easy to use well rounded distro for everyday use. Very good option to choose when moving from windows to linux. Well that is exactly what I did. Definitely a big plus for mint is that, since it is ubuntu/debian based, most of the software just works out of the box and there is no need to compile binaries on your own. Most of the software can be found on ubuntu repositories or from the web as debian installer files. Also mint has a very good and useful graphical software manager out of the box. I am still using linux mint (cinnamon) as my daily-driver on one of the laptops. |
 | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | - |
 | ![LinuxDebian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | - |
 | ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) | - |
@@ -242,13 +210,14 @@
   I have used many different editors and IDEs. 
 </p>
 
-| Development&#160;Environment | Description |
+| Editor&#160;and&#160;IDE | Description |
 |:---------------------------|:------------|
 | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | I use vscode for most of my development needs. It has plugins for pretty much anything I can think of so if there is not a better suited editor for a certain task I will use vscode. |
 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | I used visual studio when working on unity or dotnet projects. It worked very well but since visual studio is windows only I cannot use it anymore. |
 | ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) | I have used eclipse in the past for java projects but I like intellij a lot more. I have not really found any need to use eclipse since. |
 | ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) | I use intellij community edition for all my java projects. Setting up a project for javafx or kotlin for example is just so simple. I also like the way how everything works in intellij and the ui is very nice to look at. |
 | ![PyCharm](https://img.shields.io/badge/PyCharm-111111.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) | I use pycharm community edition on different python projects. If the project is bigger than a single python script I will use pycharm instead of vscode. Another one of my favorite JetBrains editors. |
+| ![WebStorm](https://img.shields.io/badge/WebStorm-111111.svg?style=for-the-badge&logo=WebStorm&logoColor=white) | - |
 | ![Rider](https://img.shields.io/badge/Rider-111111.svg?style=for-the-badge&logo=Rider&logoColor=white) | - |
 | ![Notepad++](https://img.shields.io/badge/Notepad++-%2357A143.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) | I used notepad++ in the past for small tweaks for tasks where I did not need intellisense but switched to sublime text when I moved from windows to linux. |
 | ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) | I use sublime text for little tweaks. Also if I want to check the contents of a file sublime text is my prefered tool for that because it is fast and simple. |
