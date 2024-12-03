@@ -1,8 +1,18 @@
 # WilliwadelmaWisky
+
 <p align="justify">
   I'm a self-taught software developer and do programming as a hobby. 
   I love learning new things and creating all kinds of projects including games. 
-  My interest in programing actually derives from the passion of playing video games. I wanted to learn how to make a game myself.
+  My interest in programing actually derives from the passion of playing video games. 
+  I wanted to learn how to make a game myself.
+</p>
+
+<p align="justify">
+  I am also a linux enthusiast of sorts.
+  I used windows earlier but decided to move to linux when the end of support of windows 10, "the last ever windows", was announced. 
+  Switching to linux was probably the best decision I could have made. I only wish I had done it sooner. 
+  I may have had to sacrifice a few of the games I like but that is a cost I can live with.
+  I actually liked windows 10 quite a bit apart from it updating always at the worst possible time and the constant usage of 4GB ram or more, but moving to windows 11, no thanks.
 </p>
 
 ## Featured Projects
@@ -23,7 +33,8 @@
 ## My Developer Journey
 
 <p align="justify">
-  ...
+  I have used many different languages and frameworks during my journey, including some I could not fit in the categories below.
+  The following "story" is not completely in chronological order.
 </p>
 
 <p align="justify">
@@ -187,42 +198,20 @@
   TensorFlow have been on my radar for a while but the inspiration has not struck me just yet.
 </p>
 
-## Development Tools
+## Other Projects
 
 <p align="justify">
-  I am a linux enthusiast of sorts. As I already mentioned a little bit of moving from windows to linux. 
-  It was probably the best decision I could have made. I only wish I had done it sooner. 
-  The windows 10, the last ever windows, end of support announcement was the final straw for me.
-  I may have had to sacrifice a few of the games I like but that is a cost I can live with.
-  I actually liked windows 10 quite a bit apart from it updating always at the worst possible time and the constant usage of 4GB ram or more.
+  I have written a few game reviews in the past and few people have actually found them helpful.
+  That encouraged me to make more reviews and that lead to an idea to review other stuff as well. 
+  I also got interested in an idea of writing other types of articles as well, like tutorials. 
+  However there are so much bad tutorials out there so I hesitated for a while.
+  Still I decided to start a little blog. 
+  The following table contains a few of the articles I am quite proud of and could possibly even help someone out.
 </p>
 
-| Operating&#160;System | Desciption |
-|:----------------------|:-----------|
-| ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | An easy to use well rounded distro for everyday use. Very good option to choose when moving from windows to linux. Well that is exactly what I did. Definitely a big plus for mint is that, since it is ubuntu/debian based, most of the software just works out of the box and there is no need to compile binaries on your own. Most of the software can be found on ubuntu repositories or from the web as debian installer files. Also mint has a very good and useful graphical software manager out of the box. I am still using linux mint (cinnamon) as my daily-driver on one of the laptops. |
-| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | - |
-| ![LinuxDebian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | - |
-| ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) | - |
-| ![LinuxManjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) | - |
-| ![LinuxArch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | - |
-
-<p align="justify">
-  I have used many different editors and IDEs. 
-</p>
-
-| Editor&#160;and&#160;IDE | Description |
-|:---------------------------|:------------|
-| ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | I use vscode for most of my development needs. It has plugins for pretty much anything I can think of so if there is not a better suited editor for a certain task I will use vscode. |
-| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | I used visual studio when working on unity or dotnet projects. It worked very well but since visual studio is windows only I cannot use it anymore. |
-| ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) | I have used eclipse in the past for java projects but I like intellij a lot more. I have not really found any need to use eclipse since. |
-| ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) | I use intellij community edition for all my java projects. Setting up a project for javafx or kotlin for example is just so simple. I also like the way how everything works in intellij and the ui is very nice to look at. |
-| ![PyCharm](https://img.shields.io/badge/PyCharm-111111.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) | I use pycharm community edition on different python projects. If the project is bigger than a single python script I will use pycharm instead of vscode. Another one of my favorite JetBrains editors. |
-| ![WebStorm](https://img.shields.io/badge/WebStorm-111111.svg?style=for-the-badge&logo=WebStorm&logoColor=white) | - |
-| ![Rider](https://img.shields.io/badge/Rider-111111.svg?style=for-the-badge&logo=Rider&logoColor=white) | - |
-| ![Notepad++](https://img.shields.io/badge/Notepad++-%2357A143.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) | I used notepad++ in the past for small tweaks for tasks where I did not need intellisense but switched to sublime text when I moved from windows to linux. |
-| ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) | I use sublime text for little tweaks. Also if I want to check the contents of a file sublime text is my prefered tool for that because it is fast and simple. |
-| ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) |  I use vim for small tweaks. Also if I have to edit a file over ssh connection vim is my prefered tool for that. |
-
-<p align="justify">
-  ...
-</p>
+| Article | Description | Tags |
+|:--------|:------------|:-----|
+| Linux&#160;Mint | A review of the linux mint operating system. | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white) |
+| Manjaro&#160;Linux | A review of the manjaro linux operating system. | ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white) |
+| Regex | A tutorial on how to use regex. | ![Regex](https://img.shields.io/badge/Regex-2B2E3A?style=flat) |
+| Differential&#160;Equations | A tutorial on solving differential equations numerically. | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) |
