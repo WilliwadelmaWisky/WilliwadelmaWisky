@@ -76,6 +76,20 @@
   ...
 </p>
 
+![Wicket](https://img.shields.io/badge/Apache%20Wicket-cf3d04?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<p align="justify">
+  ...
+</p>
+
+![Flask](https://img.shields.io/badge/flask-111111.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  ...
+</p>
+
 ### Desktop Applications
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
