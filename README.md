@@ -168,6 +168,6 @@ WORK IN PROGRESS
 
 | Article | Tags |
 |:--------|:-----|
-| From Windows to Linux | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white) |
+| ![From Windows to Linux](https://github.com/WilliwadelmaWisky/blog/blob/main/articles/FromWindowsToLinux.md) | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white) |
 | How to use Regex | ![Regex](https://img.shields.io/badge/Regex-2B2E3A?style=flat) |
 | Solving Differential Equations Numerically | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) |
