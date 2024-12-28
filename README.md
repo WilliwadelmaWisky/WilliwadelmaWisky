@@ -52,7 +52,7 @@ WORK IN PROGRESS
   I started my web development journey by making very simple static websites with html and css. Later I began searching on how to render dynamic data on the website and that led me to javascript. 
 </p>
 
-![React](https://img.shields.io/badge/React-%2B2E3A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-2B2E3A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-50ba62.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
