@@ -15,8 +15,9 @@
 | Project | Description | Languages | License |
 |:--------|:------------|:----------|:-------:|
 | [TriviaQuiz](https://github.com/WilliwadelmaWisky/TriviaQuiz) | A web application for taking multiple-choice quizzes. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
+| [DatabaseSQL](https://github.com/WilliwadelmaWisky/DatabaseSQL) | A simple local database. The database can be interacted with by a language very similar sql but simplified. | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)  |
 | [uplib](https://github.com/WilliwadelmaWisky/uplib) | A python library for calculating uncertainties. | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
-| [hexdump](https://github.com/WilliwadelmaWisky/hexdump) | An extremely simple open-source hexdump program for Windows. | ![Rust](https://img.shields.io/badge/Rust-111111?style=flat&logo=rust&logoColor=E95420) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
+| [hexdump](https://github.com/WilliwadelmaWisky/hexdump) | An extremely simple open-source hexdump program for Windows. | ![Rust](https://img.shields.io/badge/Rust-323330?style=flat&logo=rust&logoColor=E95420) | ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) |
 
 ## My Developer Journey
 <p align="justify">
@@ -51,7 +52,7 @@ WORK IN PROGRESS
   I started my web development journey by making very simple static websites with html and css. Later I began searching on how to render dynamic data on the website and that led me to javascript. 
 </p>
 
-![React](https://img.shields.io/badge/React-2B2E3A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-%2B2E3A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-50ba62.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -115,8 +116,8 @@ WORK IN PROGRESS
   Now I have been using java for developing desktop applications and have not really looked back. Java is also very similar to C# so there was not too much to learn about the syntax. If only java had operator overloading it would be amazing. Nonetheless I can get stuff done and I am happy about it.
 </p>
 
-![Tauri](https://img.shields.io/badge/Tauri-1c1f24?style=for-the-badge&logo=Tauri&logoColor=FFC131)
-![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=E95420)
+![Tauri](https://img.shields.io/badge/Tauri-2B2E3A?style=for-the-badge&logo=Tauri&logoColor=FFC131)
+![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=E95420)
 
 <p align="justify">
   I came across Tauri.
@@ -170,5 +171,5 @@ WORK IN PROGRESS
 
 | Article | Tags |
 |:--------|:-----|
-| ![From Windows to Linux](https://github.com/WilliwadelmaWisky/blog/blob/main/articles/FromWindowsToLinux.md) | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white) |
+| ![From Windows to Linux](https://github.com/WilliwadelmaWisky/blog/blob/main/articles/FromWindowsToLinux.md) | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white) |
 | Solving Differential Equations Numerically | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) |
