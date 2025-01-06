@@ -8,7 +8,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="justify">
-  I have used many different languages and frameworks in the past. More details can be found on <a href="https://github.com/WilliwadelmaWisky/blog/blob/main/journal/DeveloperJourney.md">my developer journal</a>. The following table contains a couple of my finished projects I am quite proud of. 
+  I have used many different languages and frameworks in the past. More details can be found on <a href="https://github.com/WilliwadelmaWisky/blog/blob/main/journal/dev.md">my developer journal</a>. The following table contains a couple of my finished projects I am quite proud of. 
 </p>
 
 | Project | Description | Languages | License |
@@ -27,4 +27,4 @@
 
 | Article | Description | Tags |
 |:--------|:------------|:-----|
-| ![LinuxJourney](https://github.com/WilliwadelmaWisky/blog/blob/main/journal/FromWindowsToLinux.md) | My journey of moving from windows to linux, including issues I have faced. | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white) ![Manjaro Linux](https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white) |
+| ![LinuxJourney](https://github.com/WilliwadelmaWisky/blog/blob/main/journal/linux.md) | My journey of moving from windows to linux, including issues I have faced. | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white) ![Manjaro Linux](https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white) |
