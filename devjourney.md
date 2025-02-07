@@ -7,29 +7,32 @@
 > The following story is not in completely chronological order in reality. Some chapters are moved to create a structure for the story so it is not a complete mess. The story also does not contain my adventures with pixel art or 3D modeling.
 
 ## Table of Contents
-- Game Development
-  - Starting off with the already familiar Unreal Engine 4
-  - Moving to Unity Engine for 2D tooling
-  - Trying out Godot
-- Open-Source
-- Web Development (Frontend)
-  - Learning how to build websites
-  - NodeJS and the many Frameworks
-  - Databases and SQL
-- Web Development (Backend)
-  - Learning how web servers work
+- <a>Game Development</a>
+  - <a>Starting off with the already familiar Unreal Engine 4</a>
+  - <a>Moving to Unity Engine for 2D tooling</a>
+  - <a>Trying out Godot</a>
+- <a>Open-Source</a>
+- <a>Data Science</a>
+  - <a>Learning numerical approximation</a>
+  - <a>Learning optimization</a>
+  - <a>Trying to teach a computer</a>
+- <a>Web Development (Frontend)</a>
+  - <a>Learning how to build websites</a>
+  - <a>NodeJS and the many Frameworks</a>
+  - <a>Databases and SQL</a>
+- <a>Web Development (Backend)</a>
+  - <a>Learning how web servers work</a>
   - ...
   - ...
-- Desktop Development
+- <a>Desktop Development</a>
   - ...
   - ...
   - ...
   - ...
-  - Learning how computer graphics work
-- Utility Scripting and Libraries
-- Switching to Linux
-- Machine Learning
-- Going Functional
+- <a>Linux</a>
+  - <a>Building utility scripts and libraries</a>
+  - <a>Learning how computer graphics work</a>
+  - <a>Going functional</a>
 
 ## Game Development
 ### Starting off with the already familiar Unreal Engine 4
@@ -60,7 +63,8 @@
   During my time with Unity Engine I came across something called version control. After a little research I found a couple of different version control systems. I definitely found the most material about Git. So I began learning git a little bit and came across GitHub as well.
 </p>
 
-## Data Science and Numerics
+## Data Science
+### Learning numerical approximation
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white)
 ![Sympy](https://img.shields.io/badge/SymPy-3B5526?style=flat&logo=sympy&logoColor=white)
@@ -70,6 +74,24 @@
 
 <p align="justify">
   Python has very good tools for working with numerics and creating plots or so I heard. I decided to try to learn NumPy, SciPy and Matplotlib for that very reason. I obviously needed to learn how to use Python as well before I could take advantage over the libraries. I am very glad I did invest a lot of time to learn them because they are getting more and more useful for me everyday. In the past I used quite a bit of Excel (well the libreoffice alternative) when I needed to create a plot for some data for example because I did not know any better free alternatives. I probably have not touched Excel, for plotting data, even a single time after learning python and I am very glad about that. It is just a lot faster to work with Python and I have way more control over the results. I decided to to set my sight on the web development scene next.
+</p>
+
+### Learning optimization
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  There are a lot of optimization tools in the SciPy library. I wanted to learn more on how they work under the hood. I started off with linear optimization. 
+</p>
+
+### Trying to teach a computer
+![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  I have been learning a bit machine learning in the form of sklearn and PyTorch. 
 </p>
 
 ## Web Development (Frontend)
@@ -132,7 +154,7 @@
 </p>
 
 ## Desktop Development
-### Trying out already familiar options
+### Choosing the most familiar option: C#
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIyLjM5NCA2Yy0uMTY3LS4yOS0uMzk4LS41NDMtLjY1Mi0uNjlMMTIuOTI2LjIyYy0uNTA5LS4yOTQtMS4zNC0uMjk0LTEuODQ4IDBMMi4yNiA1LjMxYy0uNTA4LjI5My0uOTIzIDEuMDEzLS45MjMgMS42djEwLjE4YzAgLjI5NC4xMDQuNjIuMjcxLjkxLjE2Ny4yOS4zOTguNTQzLjY1Mi42OWw4LjgxNiA1LjA5Yy41MDguMjkzIDEuMzQuMjkzIDEuODQ4IDBsOC44MTYtNS4wOWMuMjU0LS4xNDcuNDg1LS40LjY1Mi0uNjkuMTY3LS4yOS4yNy0uNjE2LjI3LS45MVY2LjkxYy4wMDMtLjI5NC0uMS0uNjItLjI2OC0uOTF6TTEyIDE5LjExYy0zLjkyIDAtNy4xMDktMy4xOS03LjEwOS03LjExIDAtMy45MiAzLjE5LTcuMTEgNy4xMS03LjExYTcuMTMzIDcuMTMzIDAgMDE2LjE1NiAzLjU1M2wtMy4wNzYgMS43OGEzLjU2NyAzLjU2NyAwIDAwLTMuMDgtMS43OEEzLjU2IDMuNTYgMCAwMDguNDQ0IDEyIDMuNTYgMy41NiAwIDAwMTIgMTUuNTU1YTMuNTcgMy41NyAwIDAwMy4wOC0xLjc3OGwzLjA3OCAxLjc4QTcuMTM1IDcuMTM1IDAgMDExMiAxOS4xMXptNy4yNS02aC0uNzl2Ljc5aC0uNzl2LS43OWgtLjc5di43OWgtLjc5di0uNzloLS43OXYtLjc5aC43OXYtLjc5aC0uNzl2LS43OWguNzl2LS43OWguNzl2Ljc5aC43OXYtLjc5aC43OXYuNzloLjc5di43OWgtLjc5di43OWguNzl6bS0yLjM3LTEuNThoLjc5di43OWgtLjc5eiIvPjwvc3ZnPg==)
 
@@ -169,6 +191,21 @@
   I tried building desktop apps with python (with windows). Working with virtual environments was a bit tedious as windows tried really hard to prevent me from using them. Luckily I managed to get it working with few commands. Another problem I faced was running the executables made from the python source code. Running the executables did not go smoothly at all as windows defender just blocks the execution and deletes the file afterwards. I found a lot of similar issues on the internet. Luckily there were a couple of easy fixes for that, either whitelisting the executable or ditching windows entirely.
 </p>
 
+## Linux
+
+<p align="justify">
+  I decided it was a time to move on to Linux due to a couple of reasons. Eversince the Windows 11 was introduced and Microsoft kept making questionable choices I knew I had to get rid of Windows at some point. I have not noticed any reasons why I would ever switch back to Windows after using a couple of Linux distributions for awhile. The only reason might be to get some multiplayer game working that has anticheat. Most of the software I need do have Linux alternatives or work through Wine just fine. However I have noticed a couple of apps that I have not managed to get working on Wine, so I can just run them through a virtual machine. A more detailed story of my switch from Windows 10 to linux can be found on my <a href="#">linuxjourney</a>.
+</p>
+
+### Building utility scripts and libraries
+![Rust](https://img.shields.io/badge/Rust-323330?style=flat&logo=rust&logoColor=E95420)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+<p align="justify">
+  After using Linux I naturally got interested in building things to make me work more efficiently. I spent some time learning shell scripting and built some extremely simple helper scripts. I have also done more experimenting with the faster system programming languages and created some little libraries.
+</p>
+
 ### Learning how computer graphics work
 ![OpenGL](https://img.shields.io/badge/OpenGL-blue.svg?style=flat&logo=opengl&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -178,37 +215,11 @@
   I have been reading a little about computer graphics in the form of C++ and OpenGL. I decided that maybe I should try to build something with OpenGL as well. I came across CMake which makes compiling the C++ application very simple. Setting up a simple window was relatively easy to get working with GLFW. Probably the hardest part was to get the OpenGL working on my machine. Nonetheless I began building a very simple raytracer. The experience in learning C++ has been extremely rewarding, for example computer graphics is probably something I never would have come across otherwise because most game engines and frameworks have them built in already.
 </p>
 
-## Utility Scripting and Libraries
-![Rust](https://img.shields.io/badge/Rust-323330?style=flat&logo=rust&logoColor=E95420)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-<p align="justify">
-  ...
-</p>
-
-## Switching to Linux
-
-<p align="justify">
-  ...
-</p>
-
-## Machine Learning
-![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-<p align="justify">
-  I have been learning a bit machine learning in the form of sklearn and PyTorch. 
-</p>
-
-## Going Functional
+### Going functional
 ![Lisp](https://img.shields.io/badge/Lisp-111111?style=flat&logo=commonlisp&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat&logo=racket&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
 
 <p align="justify">
-  I decided it was time to try some functional programming for a change. I came across Lisp and Racket. I also came across another functional programming language called Haskell.
+  I came across a term called functional programming. I did some reasearch and found out that functional programming supposedly quite difficult. I decided to give it a go. I started off with Common Lisp and Racket. Lisp has such a weird syntax but is actually quite simple after getting used to it. I also came across another functional programming language called Haskell. Functional languages are actually very genious since functions do not have any side effects, they can be used in parallel by default. Functional languages made me think differently and most definitely made me a better programmer.
 </p>
