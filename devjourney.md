@@ -7,32 +7,33 @@
 > The following story is not in completely chronological order in reality. Some chapters are moved to create a structure for the story so it is not a complete mess. The story also does not contain my adventures with pixel art or 3D modeling.
 
 ## Table of Contents
-- <a>Game Development</a>
-  - <a>Starting off with the already familiar Unreal Engine 4</a>
-  - <a>Moving to Unity Engine for 2D tooling</a>
-  - <a>Trying out Godot</a>
-- <a>Open-Source</a>
-- <a>Data Science</a>
-  - <a>Learning numerical approximation</a>
-  - <a>Learning optimization</a>
-  - <a>Trying to teach a computer</a>
-- <a>Web Development (Frontend)</a>
-  - <a>Learning how to build websites</a>
-  - <a>NodeJS and the many Frameworks</a>
-  - <a>Databases and SQL</a>
-- <a>Web Development (Backend)</a>
-  - <a>Learning how web servers work</a>
-  - ...
-  - ...
-- <a>Desktop Development</a>
-  - ...
-  - ...
-  - ...
-  - ...
-- <a>Linux</a>
-  - <a>Building utility scripts and libraries</a>
-  - <a>Learning how computer graphics work</a>
-  - <a>Going functional</a>
+- <a href="#game-development">Game Development</a>
+  - <a href="#starting-off-with-the-already-familiar-unreal-engine-4">Starting off with the already familiar Unreal Engine 4</a>
+  - <a href="#moving-to-unity-engine-for-2d-tooling">Moving to Unity Engine for 2D tooling</a>
+  - <a href="#trying-out-godot">Trying out Godot</a>
+- <a href="#open-source">Open-Source</a>
+  - <a href="#discovering-git">Discovering GIT</a>
+- <a href="#data-science">Data Science</a>
+  - <a href="#learning-numerical-approximation">Learning numerical approximation</a>
+  - <a href="#learning-optimization">Learning optimization</a>
+  - <a href="#trying-to-teach-a-computer">Trying to teach a computer</a>
+- <a href="#web-development-frontend">Web Development (Frontend)</a>
+  - <a href="#learning-how-to-build-websites">Learning how to build websites</a>
+  - <a href="#nodejs-and-the-many-frameworks">NodeJS and the many Frameworks</a>
+  - <a href="#databases-and-sql">Databases and SQL</a>
+- <a href="#web-development-backend">Web Development (Backend)</a>
+  - <a href="#learning-how-web-servers-work">Learning how web servers work</a>
+  - <a href="#returning-to-c-sharp">Returning to C-Sharp</a>
+  - <a href="#learning-java">Learning Java</a>
+- <a href="#desktop-development">Desktop Development</a>
+  - <a href="#starting-off-with-dotnet">Starting off with dotnet</a>
+  - <a href="#switching-to-java">Switching to Java</a>
+  - <a href="#giving-a-shot-to-web-based-frameworks">Giving a shot to web-based frameworks</a>
+  - <a href="#building-guis-on-top-of-python-libraries">Building GUIs on tpo of Python libraries</a>
+- <a href="#linux">Linux</a>
+  - <a href="#building-utility-scripts-and-libraries">Building utility scripts and libraries</a>
+  - <a href="#learning-how-computer-graphics-work">Learning how computer graphics work</a>
+  - <a href="#going-functional">Going functional</a>
 
 ## Game Development
 ### Starting off with the already familiar Unreal Engine 4
@@ -51,13 +52,18 @@
 </p>
 
 ### Trying out Godot
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF.svg?style=flat&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=flat&logo=godotengine&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIyLjM5NCA2Yy0uMTY3LS4yOS0uMzk4LS41NDMtLjY1Mi0uNjlMMTIuOTI2LjIyYy0uNTA5LS4yOTQtMS4zNC0uMjk0LTEuODQ4IDBMMi4yNiA1LjMxYy0uNTA4LjI5My0uOTIzIDEuMDEzLS45MjMgMS42djEwLjE4YzAgLjI5NC4xMDQuNjIuMjcxLjkxLjE2Ny4yOS4zOTguNTQzLjY1Mi42OWw4LjgxNiA1LjA5Yy41MDguMjkzIDEuMzQuMjkzIDEuODQ4IDBsOC44MTYtNS4wOWMuMjU0LS4xNDcuNDg1LS40LjY1Mi0uNjkuMTY3LS4yOS4yNy0uNjE2LjI3LS45MVY2LjkxYy4wMDMtLjI5NC0uMS0uNjItLjI2OC0uOTF6TTEyIDE5LjExYy0zLjkyIDAtNy4xMDktMy4xOS03LjEwOS03LjExIDAtMy45MiAzLjE5LTcuMTEgNy4xMS03LjExYTcuMTMzIDcuMTMzIDAgMDE2LjE1NiAzLjU1M2wtMy4wNzYgMS43OGEzLjU2NyAzLjU2NyAwIDAwLTMuMDgtMS43OEEzLjU2IDMuNTYgMCAwMDguNDQ0IDEyIDMuNTYgMy41NiAwIDAwMTIgMTUuNTU1YTMuNTcgMy41NyAwIDAwMy4wOC0xLjc3OGwzLjA3OCAxLjc4QTcuMTM1IDcuMTM1IDAgMDExMiAxOS4xMXptNy4yNS02aC0uNzl2Ljc5aC0uNzl2LS43OWgtLjc5di43OWgtLjc5di0uNzloLS43OXYtLjc5aC43OXYtLjc5aC0uNzl2LS43OWguNzl2LS43OWguNzl2Ljc5aC43OXYtLjc5aC43OXYuNzloLjc5di43OWgtLjc5di43OWguNzl6bS0yLjM3LTEuNThoLjc5di43OWgtLjc5eiIvPjwvc3ZnPg==)
+
 <p align="justify">
   There was some weirdness with runtime fees for awhile in the Unity Engine. I tried out Godot in the meantime if it was any good. I found out that Godot supported C# which was a big help since I did not need to start off by learning a new language. I only needed to learn a little bit on how the engine actually worked so I could build something with it. It was quite a bit different to Unity and I did not use Godot nearly long enough to make my mind if it is good or not. 
 </p>
 
 ## Open-Source
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+### Discovering GIT
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 <p align="justify">
   During my time with Unity Engine I came across something called version control. After a little research I found a couple of different version control systems. I definitely found the most material about Git. So I began learning git a little bit and came across GitHub as well.
@@ -70,35 +76,37 @@
 ![Sympy](https://img.shields.io/badge/SymPy-3B5526?style=flat&logo=sympy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2c528f.svg?style=flat&logo=googleanalytics&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 <p align="justify">
   Python has very good tools for working with numerics and creating plots or so I heard. I decided to try to learn NumPy, SciPy and Matplotlib for that very reason. I obviously needed to learn how to use Python as well before I could take advantage over the libraries. I am very glad I did invest a lot of time to learn them because they are getting more and more useful for me everyday. In the past I used quite a bit of Excel (well the libreoffice alternative) when I needed to create a plot for some data for example because I did not know any better free alternatives. I probably have not touched Excel, for plotting data, even a single time after learning python and I am very glad about that. It is just a lot faster to work with Python and I have way more control over the results. I decided to to set my sight on the web development scene next.
 </p>
 
 ### Learning optimization
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 <p align="justify">
   There are a lot of optimization tools in the SciPy library. I wanted to learn more on how they work under the hood. I started off with linear optimization. 
 </p>
 
 ### Trying to teach a computer
-![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 <p align="justify">
-  I have been learning a bit machine learning in the form of sklearn and PyTorch. 
+  I have been learning a bit machine learning with Python. Python has a lot of great libraries for machine learning. I started off with sklearn and PyTorch. 
 </p>
 
 ## Web Development (Frontend)
 ### Learning how to build websites
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900.svg?style=flat&logo=Leaflet&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
@@ -107,119 +115,134 @@
 </p>
 
 ### NodeJS and the many Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-2B2E3A.svg?style=flat&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-50ba62.svg?style=flat&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 <p align="justify">
   I found out that instead of JavaScript I could use something called Typescript, which was looked a lot easier to understand than JavaScript. I began searching how can I actually use TypeScript. I came across something called NodeJS. Through node I also got introduced to the many different javascript frameworks and a tool called Vite. After doing a little reaserch on the internet I decided to try React. I heard it was quite popular and used in many large web applications. I decided to go with TypeScript which was super easy with Vite. A few little projects (todo-app, picture-gallery etc.) later I thought React is a little bit unnecessary for my small project ideas. I began searching for another simpler way. I decided to give another framework, called Vue, a try because I heard people like it a lot more than React. I started to build a little login-logoff application with Vue. Very quickly I realized that also Vue was unnecessary. I also gave Angluar a try but that was even worse for small projects. I turned back towards the vanilla JavaScript and JQuery for my small projects. During my reasearch on how to build something with the different frameworks I came across a term called a database and SQL.
 </p>
 
 ### Databases and SQL
+![Scala](https://img.shields.io/badge/Sql-2379F4.svg?style=flat&logo=scala&logoColor=white)
+
 <p align="justify">
   One of the problems I faced during frontend development was that how can I store some data. I can't access the filesystem from the browser, hmmm. There was something called localstorage but that was not a very good option for persistent data. There was an another option: a database. I did spent some time learning SQL for communicating with databases. However I found that there were databases that did not require SQL as well. I definitely need to learn a little backend before working with external databases.
 </p>
 
 ## Web Development (Backend)
 ### Learning how web servers work
-![Flask](https://img.shields.io/badge/flask-111111.svg?style=flat&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111.svg?style=flat&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 
 <p align="justify">
   While experimenting with legacy React I noticed it did not work without a server. I needed to create an http server but I had no idea how to do that. I started to look for ways to create those and found that python has a quite simple http server built-in. I tried it, and it was very simple to get the server up and running. However I did not like that approach very much due to the nature of Python being a dynamically typed language. I wanted to work with a statically typed language so I began to search a more suitable option for my preferences. I came across GO of which I had never heard before. I immediately noticed some familiarity in the syntax between GO and C#. Naturally I was keen to give it a try. Quite quickly I realised that GO was becoming one of my favorite langauges and a lot better option for me than Python. Setting up an http server was incredibly simply. Later I came across Flask which is a Python web framework and a lot nicer to use than the built-in options. Flask definitely brought Python back on my list of possible candidates when building an http server.
 </p>
 
-<p align="justify">
-  ...
-</p>
-
-### Trying out more popular options
-![ASP.Net](https://img.shields.io/badge/ASP.NET-0e5bcf?style=flat&logo=.net&logoColor=white)
+### Returning to C-Sharp
+![ASP.Net](https://img.shields.io/badge/Asp.Net-0e5bcf?style=flat&logo=.net&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIyLjM5NCA2Yy0uMTY3LS4yOS0uMzk4LS41NDMtLjY1Mi0uNjlMMTIuOTI2LjIyYy0uNTA5LS4yOTQtMS4zNC0uMjk0LTEuODQ4IDBMMi4yNiA1LjMxYy0uNTA4LjI5My0uOTIzIDEuMDEzLS45MjMgMS42djEwLjE4YzAgLjI5NC4xMDQuNjIuMjcxLjkxLjE2Ny4yOS4zOTguNTQzLjY1Mi42OWw4LjgxNiA1LjA5Yy41MDguMjkzIDEuMzQuMjkzIDEuODQ4IDBsOC44MTYtNS4wOWMuMjU0LS4xNDcuNDg1LS40LjY1Mi0uNjkuMTY3LS4yOS4yNy0uNjE2LjI3LS45MVY2LjkxYy4wMDMtLjI5NC0uMS0uNjItLjI2OC0uOTF6TTEyIDE5LjExYy0zLjkyIDAtNy4xMDktMy4xOS03LjEwOS03LjExIDAtMy45MiAzLjE5LTcuMTEgNy4xMS03LjExYTcuMTMzIDcuMTMzIDAgMDE2LjE1NiAzLjU1M2wtMy4wNzYgMS43OGEzLjU2NyAzLjU2NyAwIDAwLTMuMDgtMS43OEEzLjU2IDMuNTYgMCAwMDguNDQ0IDEyIDMuNTYgMy41NiAwIDAwMTIgMTUuNTU1YTMuNTcgMy41NyAwIDAwMy4wOC0xLjc3OGwzLjA3OCAxLjc4QTcuMTM1IDcuMTM1IDAgMDExMiAxOS4xMXptNy4yNS02aC0uNzl2Ljc5aC0uNzl2LS43OWgtLjc5di43OWgtLjc5di0uNzloLS43OXYtLjc5aC43OXYtLjc5aC0uNzl2LS43OWguNzl2LS43OWguNzl2Ljc5aC43OXYtLjc5aC43OXYuNzloLjc5di43OWgtLjc5di43OWguNzl6bS0yLjM3LTEuNThoLjc5di43OWgtLjc5eiIvPjwvc3ZnPg==)
 
 <p align="justify">
   ASP.NET ...
 </p>
 
-### Testing what Java has to offer
+### Learning Java
 ![ApacheWicket](https://img.shields.io/badge/Apache%20Wicket-cf3d04.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTAsMTJBMTIsMTIgMCwwLDEgMjQsMTJBMTIsMTIgMCwwLDEgMCwxMnptNiw2aDEydi0xMmwtMyw4bC0zLC00bC0zLDRsLTMsLTh6Ii8+PC9zdmc+)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=Spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red.svg?style=flat&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-DD0031.svg?style=flat&logo=openjdk)
 
 <p align="justify">
   I also decided to try what Java had to offer. Java is very similar to C# so there was not too much to learn about the syntax. I came across a framework called Wicket. I did not have any specific project idea in mind so I just did some simple testing how the framework worked. Another framework I discovered was Spring. I definitely liked Spring a lot more than Wicket.
 </p>
 
 ## Desktop Development
-### Choosing the most familiar option: C#
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+### Starting off with dotnet
+![.Net](https://img.shields.io/badge/.Net-5C2D91?style=flat&logo=.net&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIyLjM5NCA2Yy0uMTY3LS4yOS0uMzk4LS41NDMtLjY1Mi0uNjlMMTIuOTI2LjIyYy0uNTA5LS4yOTQtMS4zNC0uMjk0LTEuODQ4IDBMMi4yNiA1LjMxYy0uNTA4LjI5My0uOTIzIDEuMDEzLS45MjMgMS42djEwLjE4YzAgLjI5NC4xMDQuNjIuMjcxLjkxLjE2Ny4yOS4zOTguNTQzLjY1Mi42OWw4LjgxNiA1LjA5Yy41MDguMjkzIDEuMzQuMjkzIDEuODQ4IDBsOC44MTYtNS4wOWMuMjU0LS4xNDcuNDg1LS40LjY1Mi0uNjkuMTY3LS4yOS4yNy0uNjE2LjI3LS45MVY2LjkxYy4wMDMtLjI5NC0uMS0uNjItLjI2OC0uOTF6TTEyIDE5LjExYy0zLjkyIDAtNy4xMDktMy4xOS03LjEwOS03LjExIDAtMy45MiAzLjE5LTcuMTEgNy4xMS03LjExYTcuMTMzIDcuMTMzIDAgMDE2LjE1NiAzLjU1M2wtMy4wNzYgMS43OGEzLjU2NyAzLjU2NyAwIDAwLTMuMDgtMS43OEEzLjU2IDMuNTYgMCAwMDguNDQ0IDEyIDMuNTYgMy41NiAwIDAwMTIgMTUuNTU1YTMuNTcgMy41NyAwIDAwMy4wOC0xLjc3OGwzLjA3OCAxLjc4QTcuMTM1IDcuMTM1IDAgMDExMiAxOS4xMXptNy4yNS02aC0uNzl2Ljc5aC0uNzl2LS43OWgtLjc5di43OWgtLjc5di0uNzloLS43OXYtLjc5aC43OXYtLjc5aC0uNzl2LS43OWguNzl2LS43OWguNzl2Ljc5aC43OXYtLjc5aC43OXYuNzloLjc5di43OWgtLjc5di43OWguNzl6bS0yLjM3LTEuNThoLjc5di43OWgtLjc5eiIvPjwvc3ZnPg==)
 
 <p align="justify">
-  My journey circles back to its roots with C# once again.
+  I discovered dotnet while working with Unity. I wanted to try it out for a long time but did not have any ideas what I could try to build. I never really got to the point where I had a solid idea but I still did some basic testing how the components work together. Getting the app running was very simple with Visual Studio. However I eventually drifted away from Visual Studio and so left the dotnet framework behind. I wanted to try what Java had to offer since it had previously impressed me on how much I actually liked the language.
 </p>
 
-### Going back to Java
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDcuNjE3IDk4LjEycy00Ljc2NyAyLjc3NCAzLjM5NyAzLjcxYzkuODkyIDEuMTMgMTQuOTQ3Ljk2OCAyNS44NDUtMS4wOTIgMCAwIDIuODcxIDEuNzk1IDYuODczIDMuMzUxLTI0LjQzOSAxMC40Ny01NS4zMDgtLjYwNy0zNi4xMTUtNS45Njl6bS0yLjk4OC0xMy42NjVzLTUuMzQ4IDMuOTU5IDIuODIzIDQuODA1YzEwLjU2NyAxLjA5MSAxOC45MSAxLjE4IDMzLjM1NC0xLjYgMCAwIDEuOTkzIDIuMDI1IDUuMTMyIDMuMTMxLTI5LjU0MiA4LjY0LTYyLjQ0Ni42OC00MS4zMDktNi4zMzZ6Ii8+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTY5LjgwMiA2MS4yNzFjNi4wMjUgNi45MzUtMS41OCAxMy4xNy0xLjU4IDEzLjE3czE1LjI4OS03Ljg5MSA4LjI2OS0xNy43NzdjLTYuNTU5LTkuMjE1LTExLjU4Ny0xMy43OTIgMTUuNjM1LTI5LjU4IDAgLjAwMS00Mi43MzEgMTAuNjctMjIuMzI0IDM0LjE4N3oiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNzYuNDkxIDEuNTg3Uzg5LjQ1OSAxNC41NjMgNjQuMTg4IDM0LjUxYy0yMC4yNjYgMTYuMDA2LTQuNjIxIDI1LjEzLS4wMDcgMzUuNTU5LTExLjgzMS0xMC42NzMtMjAuNTA5LTIwLjA3LTE0LjY4OC0yOC44MTVDNTguMDQxIDI4LjQyIDgxLjcyMiAyMi4xOTUgNzYuNDkxIDEuNTg3eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik01Mi4yMTQgMTI2LjAyMWMyMi40NzYgMS40MzcgNTctLjggNTcuODE3LTExLjQzNiAwIDAtMS41NzEgNC4wMzItMTguNTc3IDcuMjMxLTE5LjE4NiAzLjYxMi00Mi44NTQgMy4xOTEtNTYuODg3Ljg3NCAwIC4wMDEgMi44NzUgMi4zODEgMTcuNjQ3IDMuMzMxeiIvPjwvc3ZnPg==)
+### Switching to Java
+![JavaFX](https://img.shields.io/badge/JavaFX-cf3d04.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDcuNjE3IDk4LjEycy00Ljc2NyAyLjc3NCAzLjM5NyAzLjcxYzkuODkyIDEuMTMgMTQuOTQ3Ljk2OCAyNS44NDUtMS4wOTIgMCAwIDIuODcxIDEuNzk1IDYuODczIDMuMzUxLTI0LjQzOSAxMC40Ny01NS4zMDgtLjYwNy0zNi4xMTUtNS45Njl6bS0yLjk4OC0xMy42NjVzLTUuMzQ4IDMuOTU5IDIuODIzIDQuODA1YzEwLjU2NyAxLjA5MSAxOC45MSAxLjE4IDMzLjM1NC0xLjYgMCAwIDEuOTkzIDIuMDI1IDUuMTMyIDMuMTMxLTI5LjU0MiA4LjY0LTYyLjQ0Ni42OC00MS4zMDktNi4zMzZ6Ii8+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTY5LjgwMiA2MS4yNzFjNi4wMjUgNi45MzUtMS41OCAxMy4xNy0xLjU4IDEzLjE3czE1LjI4OS03Ljg5MSA4LjI2OS0xNy43NzdjLTYuNTU5LTkuMjE1LTExLjU4Ny0xMy43OTIgMTUuNjM1LTI5LjU4IDAgLjAwMS00Mi43MzEgMTAuNjctMjIuMzI0IDM0LjE4N3oiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNzYuNDkxIDEuNTg3Uzg5LjQ1OSAxNC41NjMgNjQuMTg4IDM0LjUxYy0yMC4yNjYgMTYuMDA2LTQuNjIxIDI1LjEzLS4wMDcgMzUuNTU5LTExLjgzMS0xMC42NzMtMjAuNTA5LTIwLjA3LTE0LjY4OC0yOC44MTVDNTguMDQxIDI4LjQyIDgxLjcyMiAyMi4xOTUgNzYuNDkxIDEuNTg3eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik01Mi4yMTQgMTI2LjAyMWMyMi40NzYgMS40MzcgNTctLjggNTcuODE3LTExLjQzNiAwIDAtMS41NzEgNC4wMzItMTguNTc3IDcuMjMxLTE5LjE4NiAzLjYxMi00Mi44NTQgMy4xOTEtNTYuODg3Ljg3NCAwIC4wMDEgMi44NzUgMi4zODEgMTcuNjQ3IDMuMzMxeiIvPjwvc3ZnPg==)
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=flat&logo=junit5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red.svg?style=flat&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-DD0031.svg?style=flat&logo=openjdk)
 
 <p align="justify">
-  Eventually I drfited away from C# to Java once again. Now I have been using Java for developing desktop applications and have not really looked back. I absolutely love to work with JavaFX. But of course I wanted to learn more so could not stop my journey on the JavaFX. 
+  Once again my journey continues with Java. JavaFX is one of the frameworks I have been using for quite a while. It has so many similar aspects to my time spent with web development, like the fxml language and css support for example. I have been using Java for developing desktop applications and have not really looked back. I absolutely love to work with JavaFX. But of course I wanted to learn more so could not stop my journey on the JavaFX. I wanted to give a shot to more frameworks and languages just in case I found something I liked even more.
 </p>
 
-### Trying out web-based desktop application frameworks
+### Giving a shot to web-based frameworks
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-2B2E3A?style=flat&logo=Tauri&logoColor=FFC131)
 ![Rust](https://img.shields.io/badge/Rust-323330?style=flat&logo=rust&logoColor=E95420)
 
 <p align="justify">
-  My first taste of web-based desktop application frameworks was electron. A working application was quite simple to get up and running with electron + javascript. However, in electron, working with a file system, for example, felt a little too complicated to my taste. I decided to search a different and simpler option. An option I came across was a framework called Tauri. However the problem with tauri was that I needed to learn Rust. I had a little look on the internet what is this so called Rust language. I found out that it is very fastly evolving language and loved by many. I thought I will probably have to learn it someday anyway so I decided I might as well do it now and began learning rust. Rust was a very different experience from C# or javascript, and I little too complicated and messy to get something actually done. I decided to move away from web-based frameworks and to see what Python has to offer for building desktop applications.
+  Next framework I discovered was a web-based framework called Electron. It is actually quite genious. I can use the JavaScript frameworks for building the GUI but for desktop rather than for browser. A working application was quite simple to get up and running with electron + javascript. However, in electron, working with a file system, for example, felt a little too complicated to my taste. I decided to search a different and simpler option.
+</p>
+
+<p align="justify">
+  An option I came across was a framework called Tauri. However the problem with Tauri was that I needed to learn Rust. I had a little look on the internet what is this Rust language. I found out that it is very fastly evolving language and loved by many. I thought I will probably have to learn it someday anyway so I decided I might as well do it now and began learning Rust. Rust was a very different experience from C# or JavaScript, and I little too complicated and messy to get something actually done. I decided to move away from web-based frameworks for now but I am definitely returning to Tauri someday after learning more Rust.
 </p>
 
 ### Building GUIs on top of Python libraries
 ![PyQT5](https://img.shields.io/badge/PyQT5-%23217346.svg?style=flat&logo=Qt&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-2f9fe3.svg?style=flat&logo=pytest&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pytest](https://img.shields.io/badge/Pytest-2f9fe3.svg?style=flat&logo=pytest&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 <p align="justify">
-  I tried building desktop apps with python (with windows). Working with virtual environments was a bit tedious as windows tried really hard to prevent me from using them. Luckily I managed to get it working with few commands. Another problem I faced was running the executables made from the python source code. Running the executables did not go smoothly at all as windows defender just blocks the execution and deletes the file afterwards. I found a lot of similar issues on the internet. Luckily there were a couple of easy fixes for that, either whitelisting the executable or ditching windows entirely.
+  I have been using Matplotlib quite a lot for plotting 2D graphs. I had this idea of building an actual desktop application for said tasks to make my life a little bit easier in the future. Luckily I found out that PyQT has support for Matplotlib. The app was surprisingly easy to get up and running. Of course the problem was that I had never built something bigger than a single file "apps" with Python. I needed to learn how the different scripts communicate. That was not too diffcult luckily even though I found quite mixed information about that on the internet. 
+</p>
+
+<p align="justify">
+  One huge problem I noticed while trying to build desktop apps with Python (on Windows). Working with virtual environments was a bit tedious as Windows tried really hard to prevent me from using them. Luckily I managed to get it working with few commands. Another problem I faced was running the executables made from the Python source code. Running the executables did not go smoothly at all as Windows Defender just blocks the execution and deletes the file afterwards. I found a lot of similar issues on the internet. Luckily there were a couple of easy fixes for that, either whitelisting the executable or ditching windows entirely.
 </p>
 
 ## Linux
+![Linux](https://img.shields.io/badge/Linux-%23F7A41D?style=flat&logo=linux&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white)
 
 <p align="justify">
-  I decided it was a time to move on to Linux due to a couple of reasons. Eversince the Windows 11 was introduced and Microsoft kept making questionable choices I knew I had to get rid of Windows at some point. I have not noticed any reasons why I would ever switch back to Windows after using a couple of Linux distributions for awhile. The only reason might be to get some multiplayer game working that has anticheat. Most of the software I need do have Linux alternatives or work through Wine just fine. However I have noticed a couple of apps that I have not managed to get working on Wine, so I can just run them through a virtual machine. A more detailed story of my switch from Windows 10 to linux can be found on my <a href="#">linuxjourney</a>.
+  I decided it was a time to move on to Linux due to a couple of reasons (the thing with Python was not actually one of them but it helped my desicion). Eversince the Windows 11 was introduced and Microsoft kept making questionable choices I knew I had to get rid of Windows at some point. I have not noticed any reasons why I would ever switch back to Windows after using a couple of Linux distributions for awhile. The only reason might be to get some multiplayer game working that has anticheat. Most of the software I need do have Linux alternatives or work through Wine just fine. However I have noticed a couple of apps that I have not managed to get working on Wine, so I can just run them through a virtual machine. A more detailed story of my switch from Windows 10 to linux can be found on my <a href="#">linuxjourney</a>.
 </p>
 
 ### Building utility scripts and libraries
+![Bash Script](https://img.shields.io/badge/Bash_Script-111111.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-323330?style=flat&logo=rust&logoColor=E95420)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 <p align="justify">
   After using Linux I naturally got interested in building things to make me work more efficiently. I spent some time learning shell scripting and built some extremely simple helper scripts. I have also done more experimenting with the faster system programming languages and created some little libraries.
 </p>
 
 ### Learning how computer graphics work
-![OpenGL](https://img.shields.io/badge/OpenGL-blue.svg?style=flat&logo=opengl&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-blue.svg?style=flat&logo=opengl&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 <p align="justify">
   I have been reading a little about computer graphics in the form of C++ and OpenGL. I decided that maybe I should try to build something with OpenGL as well. I came across CMake which makes compiling the C++ application very simple. Setting up a simple window was relatively easy to get working with GLFW. Probably the hardest part was to get the OpenGL working on my machine. Nonetheless I began building a very simple raytracer. The experience in learning C++ has been extremely rewarding, for example computer graphics is probably something I never would have come across otherwise because most game engines and frameworks have them built in already.
 </p>
 
 ### Going functional
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-111111?style=flat&logo=commonlisp&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat&logo=racket&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
 
 <p align="justify">
-  I came across a term called functional programming. I did some reasearch and found out that functional programming supposedly quite difficult. I decided to give it a go. I started off with Common Lisp and Racket. Lisp has such a weird syntax but is actually quite simple after getting used to it. I also came across another functional programming language called Haskell. Functional languages are actually very genious since functions do not have any side effects, they can be used in parallel by default. Functional languages made me think differently and most definitely made me a better programmer.
+  While doing researh on Java alternatives I came across Scala. I also came across a term called functional programming. I did some reasearch and found out that functional programming supposedly quite difficult. I decided to give it a go. I started off with Common Lisp and Racket. Lisp has such a weird syntax but is actually quite simple after getting used to it. I also came across another functional programming language called Haskell. Functional languages are actually very genious since functions do not have any side effects, they can be used in parallel by default. Functional languages made me think differently and most definitely made me a better programmer.
 </p>
