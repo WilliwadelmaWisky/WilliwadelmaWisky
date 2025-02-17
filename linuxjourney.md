@@ -9,10 +9,10 @@
     - <a href="#checking-the-integrity">Checking the integrity</a>
     - <a href="#flashing-the-iso">Flashing the ISO</a>
 - <a href="#linux-mint">Linux Mint</a>
-- <a>Manjaro</a>
-    - <a>Problems with getting Latex to work</a>
-    - <a>Problems with the journald stuck on activating state</a>
-    - <a>Problems with getting Vulkan + Nvidia to work</a>
+- <a href="#manjaro">Manjaro</a>
+    - <a href="#problems-with-getting-latex-to-work">Problems with getting Latex to work</a>
+    - <a href="#problems-with-the-journald-stuck-on-activating-state">Problems with the journald stuck on activating state</a>
+    - <a href="#problems-with-getting-vulkan-and-nvidia-to-work">Problems with getting Vulkan + Nvidia to work</a>
 
 ## From Windows to Linux
 ### Choosing the distribution
@@ -53,7 +53,7 @@
 </p>
 
 <p align="justify">
-    Okay, now that Manjaro is installed successfully is it actually something I want to use? Manjaro is Arch based so it has access to very up-to-date software and there are a ton of them. Also what I personally like very much is that Manjaro has a graphical software manager. There are naturally drawbacks as well to the latest available software. All the software will simply not work out of the box. Luckily for me pretty much all the software I absolutely needed worked without much of a hassle. 
+    Okay, now that Manjaro is installed successfully is it actually something I want to use? Manjaro is Arch based so it has access to very up-to-date software and there are a ton of them. Also what I personally like very much is that Manjaro has a graphical software manager. There are naturally drawbacks as well to the latest available software. All the software will simply not work out of the box. Luckily for me pretty much all the software, I absolutely needed, worked without much of a hassle. 
 </p>
 
 <p align="justify">
@@ -61,58 +61,20 @@
 </p>
 
 ### Problems with getting Latex to work
-> [!ERROR]
-> Did not find a working fix.
-
-**Backstory**
 <p align="justify">
-    ...
-</p>
-
-**Issue**
-<p align="justify">
-	I could not get latex to work properly on manjaro. This is of course a quite a small problem and mostly due my limited knowledge. However by googling I found a lot of people having the exact same problem with manjaro/arch. I ran into a few solutions as well saying like "I installed these 30 different packages and it started to work". It might have worked for me as well but I did not need to get latex working that badly to install some random packages. Comparing to linux mint latex worked out of the box, just needed to install it.
-</p>
-
-**Aftermath**
-<p align="justify">
-    ...
+	I use a quite a bit of Latex almost daily but I could not get it to work properly on Manjaro. This is of course a quite a small problem and mostly due my limited knowledge. However by googling I found a lot of people having the exact same problem with Manjaro/Arch. I ran into a few solutions as well saying like "I installed these 30 different packages and it started to work". It might have worked for me as well but I did not need to get Latex working (on this machine) that badly to install some random packages. I did not have the same issue on Linux Mint, Latex worked out of the box just fine.
 </p>
 
 ### Problems with the journald stuck on activating state
-> [!WARNING]
-> Found a temporary fix.
-
-**Backstory**
 <p align="justify">
-    I decided to install linux to my old windows 10 laptop as well. I tried Debian, tried Fedora tried Mint, nothing worked. After the linux mint install failed my laptop would not boot anymore from usb. Tried changes basically all the bios settings (secure boot, fast boot, csm, etc.) I simply could not get the laptop to boot anymore. So I completely dismantled it and put it back together to reset the bios. Miraculously I managed to get the laptop to boot and installed manjaro on it. However I noticed that the laptop would freeze everytime after a while. I had a look on the system monitor but saw nothing alarming execpt that the cpu was running around 50%. After it froze again I decided to shutdown the laptop right after it started. It did not work I got an error message saying something like journald could not be started. I had a look on the htop and found that journald had 100% cpu usage. I wondered what the **** is going on. I had a look on the internet and found a command to check the status of the journald. The status was activating.
+    I decided to install Linux to my ~10-year-old Windows 10 laptop as well. I tried Debian, tried Fedora tried Linux Mint, nothing worked. After the Linux Mint install failed my laptop would not boot anymore from USB. I Tried changing basically all the bios settings (secure boot, fast boot, csm, etc.) I simply could not get the laptop to boot anymore. So I completely dismantled it and put it back together to reset the bios. Miraculously I managed to get the laptop to boot and installed Manjaro on it. However I noticed that the laptop would freeze everytime after a while. I had a look on the system monitor but saw nothing alarming execpt that the cpu was running around 50%. After it froze again I decided to shutdown the laptop right after it started. It did not work I got an error message saying something like journald could not be started. I had a look on the htop and found that journald had 100% CPU usage. I wondered what the **** is going on. I had a look on the internet and found a command to check the status of the journald.
 </p>
 
-**Issue**
 <p align="justify">
-    The journald got stuck on activating state and was using burning my cpu which caused freezes after awhile every single time. Also the system was unable to reboot or shutdown, only the power button worked for shutdown. Surprisingly it always booted right up but the same problem occured everytime. After doing some research I managed to find a temporary fix, which was to set "pci=nomsi" on the grub boot loader. I could not however get the grub to update so need to set the "pci=nomsi" on every boot.
+    I managed to determine that the journald was stuck on activating state and was burning my CPU which caused freezes after awhile every single time. Also the system was unable to reboot or shutdown, only the power button worked for shutdown. Surprisingly it always booted right up but the same problem occured everytime. After doing some research I managed to find a temporary fix, which was to set "pci=nomsi" on the grub boot loader. I could not get the grub to update so need to set the "pci=nomsi" on every boot. The situation changed when I updated the kernel. I am pretty sure it also updated the boot loader so my "pci=nomsi" setting is now there by default. I am very happy I don't have to set it on every boot anymore. Manjaro has definitely given life back to my laptop (other distributions I have tried still do not work at all). Though I do have a feeling that Arch or Endeavor could work even better but that is something for the future.
 </p>
 
-**Aftermath**
+### Problems with getting Vulkan and Nvidia to work
 <p align="justify">
-    I am happy with the solution even though it is a little tedious to do everytime. However the laptop is usable (other distributions I have tried still do not work at all). A huge thank you to Manjaro for giving life back to my old laptop. Though I do have a feeling that Arch could work even better but that is something for the future.
-</p>
-
-### Problems with getting Vulkan + Nvidia to work
-> [!ERROR]
-> Did not find a working fix.
-
-**Backstory**
-<p align="justify">
-    ...
-</p>
-
-**Issue**
-<p align="justify">
-	...
-</p>
-
-**Aftermath**
-<p align="justify">
-    ...
+    I could not get the Vulkan to recognize my Nvidia GPU. I tried to update my drivers to the latest available Nvidia drivers but that broke my resolution completely, only a single 4:3 option was available. After that I downloaded some old Nvidia drivers to get the resolution back to normal. I got everything working again execpt the Vulkan which is not supported by this drivers anyway so not a big surprise there. Once again a kernel update (6.12) came to the rescue, well at first it completely broke my drivers once again. I downloaded the latest Nvidia drivers again but now after a reboot everything seemed to work just fine. Now the Vulkan is also recognizing my GPU but who knows how long will that last.
 </p>
