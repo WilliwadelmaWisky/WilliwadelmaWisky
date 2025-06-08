@@ -11,6 +11,7 @@
   - <a href="#starting-off-with-the-already-familiar-unreal-engine-4">Starting off with the already familiar Unreal Engine 4</a>
   - <a href="#moving-to-unity-engine-for-2d-tooling">Moving to Unity Engine for 2D tooling</a>
   - <a href="#trying-out-godot">Trying out Godot</a>
+  - <a href="#learning-how-computer-graphics-work">Learning how computer graphics work</a>
 - <a href="#open-source">Open-Source</a>
   - <a href="#discovering-git">Discovering GIT</a>
 - <a href="#data-science">Data Science</a>
@@ -32,7 +33,6 @@
   - <a href="#building-guis-on-top-of-python-libraries">Building GUIs on tpo of Python libraries</a>
 - <a href="#linux">Linux</a>
   - <a href="#building-utility-scripts-and-libraries">Building utility scripts and libraries</a>
-  - <a href="#learning-how-computer-graphics-work">Learning how computer graphics work</a>
   - <a href="#going-functional">Going functional</a>
 
 ## Game Development
@@ -58,6 +58,15 @@
 
 <p align="justify">
   There was some weirdness with runtime fees for awhile in the Unity Engine. I tried out Godot in the meantime if it was any good. I found out that Godot supported C# which was a big help since I did not need to start off by learning a new language. I only needed to learn a little bit on how the engine actually worked so I could build something with it. It was quite a bit different to Unity and I did not use Godot nearly long enough to make my mind if it is good or not. 
+</p>
+
+### Learning how computer graphics work
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-blue.svg?style=flat&logo=opengl&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+<p align="justify">
+  I have been reading a little about computer graphics in the form of C++ and OpenGL. I decided that maybe I should try to build something with OpenGL as well. I came across CMake which makes compiling the C++ application very simple. Setting up a simple window was relatively easy to get working with GLFW. Probably the hardest part was to get the OpenGL working on my machine. Nonetheless I began building a very simple raytracer. The experience in learning C++ has been extremely rewarding, for example computer graphics is probably something I never would have come across otherwise because most game engines and frameworks have them built in already.
 </p>
 
 ## Open-Source
@@ -105,7 +114,7 @@
 ## Web Development (Frontend)
 ### Learning how to build websites
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/Css-663399.svg?style=flat&logo=css&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900.svg?style=flat&logo=Leaflet&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -226,15 +235,6 @@
 
 <p align="justify">
   After using Linux I naturally got interested in building things to make me work more efficiently. I spent some time learning shell scripting and built some extremely simple helper scripts. I have also done more experimenting with the faster system programming languages and created some little libraries.
-</p>
-
-### Learning how computer graphics work
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-blue.svg?style=flat&logo=opengl&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-
-<p align="justify">
-  I have been reading a little about computer graphics in the form of C++ and OpenGL. I decided that maybe I should try to build something with OpenGL as well. I came across CMake which makes compiling the C++ application very simple. Setting up a simple window was relatively easy to get working with GLFW. Probably the hardest part was to get the OpenGL working on my machine. Nonetheless I began building a very simple raytracer. The experience in learning C++ has been extremely rewarding, for example computer graphics is probably something I never would have come across otherwise because most game engines and frameworks have them built in already.
 </p>
 
 ### Going functional
