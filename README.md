@@ -2,7 +2,7 @@
 **A hobbyist software developer** 
 
 <p align="justify">
-  I am mostly a self-taught software and game developer. I do programming as a hobby and got introduced to various languages and frameworks during the years. I have built many prototypes and projects, from simple frontend applications to a little more advanced game systems, most of which never got finished nor open-sourced. I am most familiar with C#, Java, JavaScript and Python. I also have quite a bit of experience with a few different Linux distributions. A more detailed story of my developer history can be found on my <a href="https://github.com/WilliwadelmaWisky/WilliwadelmaWisky/blob/main/devjourney.md">devjourney</a> and <a href="https://github.com/WilliwadelmaWisky/WilliwadelmaWisky/blob/main/linuxjourney.md">linuxjourney</a>.
+  I am mostly a self-taught software and game developer. I do programming as a hobby and got introduced to various languages and frameworks during the years. I have built many prototypes and projects, from simple frontend applications to a little more advanced game systems, most of which never got finished nor open-sourced. Still a couple of projects were worthy enough to be open-sourced in GitHub. I am most familiar with C# (Unity Engine and .NET), Java (JavaFX and Springboot), JavaScript (Vanilla and React) and Python (NumPy, SciPy and PyQT). I also have a bit of experience with a few different Linux distributions, mainly Mint and Fedora.
 </p>
 
 ### Featured Projects
